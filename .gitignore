@@ -2,8 +2,8 @@
 /backend/.env
 .idea
 
-/frontend/android*
-/frontend/ios*
+/frontend/android
+/frontend/ios
 /frontend/node_modules
 /frontend/build
 /frontend/.idea
